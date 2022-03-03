@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>icon.png</file>
+  </qresource>
+  <qresource prefix="for">
+    <file>e.png</file>
+    <file>f.png</file>
+    <file>c.png</file>
+    <file>a.png</file>
+    <file>b.png</file>
+    <file>d.png</file>
+  </qresource>
+</RCC>
